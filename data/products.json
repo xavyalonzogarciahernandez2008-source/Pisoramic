@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Marsella Blanco",
+    "description": "azulejo 25x33",
+    "quantity": 48,
+    "price": 95,
+    "category": "Azulejos",
+    "image": "/uploads/product-1770695489582-822236636.jpg",
+    "createdAt": "2026-02-10T03:51:29.584Z",
+    "unit": "metros",
+    "updatedAt": "2026-02-10T04:02:19.723Z"
+  }
+]
